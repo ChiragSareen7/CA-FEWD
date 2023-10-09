@@ -1,0 +1,43 @@
+body{
+    
+   background-color: black; 
+   color: white;
+}
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.side{
+    border: solid grey;
+    width: min-content;
+}
+ button{
+    background-color: black;
+    width: 30px;
+    height: 30px;
+ }
+ input{
+    background-color: transparent;
+    height: 30px;
+    width: 350px;
+ }
+ .head{
+    width: max-content;
+    height: 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: transparent;
+    border-radius: 10px;
+    border-color: gray;
+    color: white;
+ }
+
+
+.search{
+    align-items: center;
+    height: 30px;
+    width: 200px;
+    background-color: transparent;
+}
+.side .important{
+    display: inline;
+}
