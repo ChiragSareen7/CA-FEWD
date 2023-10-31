@@ -38,6 +38,16 @@ body{
     width: 200px;
     background-color: transparent;
 }
-.side .important{
-    display: inline;
+.side{
+    display: inline-block;
+    /* width: 50%; */
+    
+}
+.important{
+    display: inline-block;
+    /* width: 20%; */
+    /* padding-left: 270px; */
+}
+#flex{
+    display: flex;
 }
